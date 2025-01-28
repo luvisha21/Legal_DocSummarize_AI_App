@@ -3,6 +3,9 @@
 
 A Streamlit-powered web application designed to analyze legal documents, identify potential risks, and provide actionable recommendations. It integrates with Google Sheets for saving results and offers email notifications to stakeholders.
 
+## Script
+<h4>Google Collab: <a href='<h4><a href=''>Link</a></h4>'>By Lavisha Saroha</a></h4>
+
 ## Features
 
 - **File Upload**: Upload legal documents in `.txt`, `.docx`, or `.pdf` formats for analysis.
@@ -70,3 +73,10 @@ Ensure you have the following installed:
 Install the required Python libraries by running the following command:
 ```bash
 pip install -r requirements.txt
+
+```
+##Execution of StreamLit
+```bash
+!curl ifconfig.me
+! streamlit run app.py & npx localtunnel --port 8501
+```
