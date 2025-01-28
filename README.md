@@ -5,7 +5,9 @@ A Streamlit-powered web application designed to analyze legal documents, identif
 
 ## Script
 <h4>Google Collab: <a href='https://colab.research.google.com/drive/1fLlUol8QkQA4gUc-hZmmnhZ6VSrmwCUb?usp=sharing'>Link</a></h4>
+
 ---
+
 ## Frontend
 ![Output](https://github.com/luvisha21/Legal_DocSummarize_AI_App/blob/f71ba7cd989e27c0bc405931d89d902695490e27/Output/Screenshot%202025-01-28%20203746.png)
 
