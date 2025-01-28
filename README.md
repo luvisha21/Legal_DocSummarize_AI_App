@@ -1,10 +1,10 @@
 # Legal Document Risk Analysis Dashboard
-<h4><a href=''>By Lavisha Saroha</a></h4>
+<h4><a href='https://github.com/luvisha21'>By Lavisha Saroha</a></h4>
 
 A Streamlit-powered web application designed to analyze legal documents, identify potential risks, and provide actionable recommendations. It integrates with Google Sheets for saving results and offers email notifications to stakeholders.
 
 ## Script
-<h4>Google Collab: <a href='<h4><a href=''>Link</a></h4>'>By Lavisha Saroha</a></h4>
+<h4>Google Collab: <a href='https://colab.research.google.com/drive/1fLlUol8QkQA4gUc-hZmmnhZ6VSrmwCUb?usp=sharing'>Link</a></h4>
 
 ## Features
 
